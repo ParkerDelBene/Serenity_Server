@@ -1,0 +1,1 @@
+dart compile exe --target-os=linux ./main.dart -o server.exe

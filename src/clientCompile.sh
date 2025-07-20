@@ -1,0 +1,1 @@
+dart compile exe --target-os=linux ./serenity_test_client.dart -o client.exe

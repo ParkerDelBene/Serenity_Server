@@ -1,0 +1,1 @@
+dart compile exe --target-os=linux ./parecord_test.dart -o test.exe
